@@ -3,7 +3,7 @@
 QA testing in postman for a music streaming API using itunes and restful apis.
 ##APIs Used
 - **Restful-API.dev** (https://api.restful-api.dev) — playlist and track management
-
+-**iTunes Search API** (https://itunes.apple.com/search) — music search and catalogue data
 ## Test Coverage
 
 ### 1. Search Functionality
